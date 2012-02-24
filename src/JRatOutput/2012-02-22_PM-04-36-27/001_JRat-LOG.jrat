@@ -1,0 +1,11 @@
+viewer="org.shiftone.jrat.ui.viewer.SimpleTextOutputViewBuilder"
+JRat:INFO (Feb/22 16:36:27,608) (main) RuntimeContextImpl - logfile created
+JRat:INFO (Feb/22 16:36:27,608) (main) RuntimeContextImpl - Running JRat version 1-alpha2 - built on July 31 2006
+JRat:INFO (Feb/22 16:36:27,609) (main) Settings - string 'jrat.factory' = 'org.shiftone.jrat.provider.silent.SilentMethodHandler'
+JRat:INFO (Feb/22 16:36:27,609) (main) RootFactory - JRat creating root handler factory...
+JRat:INFO (Feb/22 16:36:29,763) (JRat-Shutdown) ShutdownRegistry - shutting down...[Transformer[AsmInjectorStrategy(uses http://asm.objectweb.org)], FileOutputRegistry[PrintWriter[001_JRat-LOG.jrat]]]
+JRat:INFO (Feb/22 16:36:29,763) (JRat-Shutdown) ShutdownRegistry - shutting down FileOutputRegistry[PrintWriter[001_JRat-LOG.jrat]]...
+JRat:INFO (Feb/22 16:36:29,764) (JRat-Shutdown) FileOutputRegistry - closeFileOutputs [PrintWriter[001_JRat-LOG.jrat]]
+JRat:INFO (Feb/22 16:36:29,764) (JRat-Shutdown) FileOutputRegistry - closing : PrintWriter[001_JRat-LOG.jrat]
+JRat:INFO (Feb/22 16:36:29,764) (JRat-Shutdown) FileOutputPrintWriter - closing
+JRat:INFO (Feb/22 16:36:29,765) (JRat-Shutdown) FileOutputRegistry - remove PrintWriter[001_JRat-LOG.jrat]
